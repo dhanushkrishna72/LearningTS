@@ -4,3 +4,8 @@ till now we learnt how to setup the typescript and automate the run file option 
 ## Data types
 1. primitive 
 2. reference
+
+
+### 1. Primitive Types:
+\t 1. Int
+\t 2. Float
