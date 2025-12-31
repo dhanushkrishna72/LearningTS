@@ -8,4 +8,4 @@ till now we learnt how to setup the typescript and automate the run file option 
 
 ### 1. Primitive Types:
 \t 1. Int
-\t 2. Float
+\n 2. Float
