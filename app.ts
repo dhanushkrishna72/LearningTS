@@ -24,3 +24,6 @@ function func(obj:User) {
     obj.email = "email";
     obj.password = "pass";
 }
+
+let admin = true;
+console.log(admin);

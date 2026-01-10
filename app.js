@@ -6,3 +6,5 @@ function func(obj) {
     obj.email = "email";
     obj.password = "pass";
 }
+let admin = true;
+console.log(admin);
